@@ -1,0 +1,12 @@
+<div
+    <?php echo e($attributes
+            ->merge([
+                'id' => $getId(),
+            ], escape: false)
+            ->merge($getExtraAttributes(), escape: false)); ?>
+
+>
+    <?php echo e($getChildComponentContainer()); ?>
+
+</div>
+<?php /**PATH /home/u143329440/domains/1954bet.com/public_html/vendor/filament/forms/src/../resources/views/components/grid.blade.php ENDPATH**/ ?>

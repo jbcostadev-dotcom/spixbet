@@ -1,0 +1,17 @@
+{
+    "id": 7,
+    "user_id": 41,
+    "inviter": 1,
+    "commission": "68.00",
+    "commission_type": "revshare",
+    "deposited": 0,
+    "deposited_amount": "0.00",
+    "losses": 16,
+    "losses_amount": "28.00",
+    "commission_paid": "28.00",
+    "status": "pendente",
+    "created_at": "2024-03-08T10:39:41.000000Z",
+    "updated_at": "2024-03-08T12:27:47.000000Z",
+    "dateHumanReadable": "h\u00e1 1 hora",
+    "createdAt": "2024-03-08T10:39:41.000000Z"
+}
